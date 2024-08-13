@@ -18,8 +18,16 @@ Follow the steps below to build and run Komet on your local machine:
 
 3. Enter the following command to build the application:
 
+Unix/Linux/OSX:
+
 ```bash
-mvn clean install
+./mvnw clean install
+```
+
+Windows:
+
+```bash
+./mvnw.cmd clean install
 ```
 
 ## Issues and Contributions
